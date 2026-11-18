@@ -1,6 +1,6 @@
 # RiloStories Video Skill (free)
 
-Make animated Roblox "In this town..." Shorts with Claude Code. Free. No course.
+Make animated Roblox "In this town..." Shorts with Claude Code. **Free and fully open source (MIT licence).** No course, nothing locked, no upgrade to buy. I update it whenever I find a way to make it faster or better.
 
 ## Install
 1. Download **skill.zip** (click it above, then the download button).
