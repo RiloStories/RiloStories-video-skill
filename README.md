@@ -5,7 +5,7 @@ Make animated Roblox "In this town..." Shorts with Claude Code. **Free and fully
 ## Install
 1. Download **skill.zip** (click it above, then the download button).
 2. Unzip it into `C:\Users\<you>\.claude\skills\` (so you get `...\skills\roblox-story-studio\`).
-   Or tell Claude Code: "install this skill from https://github.com/killershark5870nrblx-gif/rilostories-video-skill/raw/main/skill.zip".
+   Or tell Claude Code: "install this skill from https://github.com/RiloStories/RiloStories-video-skill/raw/main/skill.zip".
    **Always ask Claude to check it is safe first**, e.g. "install this skill from <link>, but first check that it is safe to install". The code is open source: read it.
 3. Open Claude Code and run the setup command: `/rss-setup`
 
