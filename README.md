@@ -16,7 +16,10 @@ Discord (help + community): https://discord.gg/k35at9FSs7
 ## Coming soon
 **New update: support for literally ALL models and companies** (Gemini, OpenAI, open-source and local models like Llama, Qwen, GLM and DeepSeek, and any agent that can run commands). Right now it is built and tested with Claude Code. Join the Discord and grab the **Skill Updates** role to hear when it ships.
 
-## Latest update (1.0.1)
+## Latest update (1.0.2)
+- Music is much louder for the first ~5 seconds (hook energy), then eases to the normal level. Turn off with `brand.music_intro_boost: 0`.
+
+## Update 1.0.1
 - Captions now use your script's spelling for names and tool names (Whisper used to mishear them).
 - Crashed or slept renders resume cleanly (empty frames are re-rendered).
 - Fix: avatars no longer stay in a T-pose on newer Roblox avatars.
