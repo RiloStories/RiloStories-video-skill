@@ -11,4 +11,17 @@ Make animated Roblox "In this town..." Shorts with Claude Code. **Free and fully
 
 You need: a Claude plan (Claude Code), Windows, Roblox Studio (free). Blender is optional (custom props).
 
-Discord (help + community): https://discord.gg/33Yu9YGkM
+Discord (help + community): https://discord.gg/k35at9FSs7
+
+## Coming soon
+**New update: support for literally ALL models and companies** (Gemini, OpenAI, open-source and local models like Llama, Qwen, GLM and DeepSeek, and any agent that can run commands). Right now it is built and tested with Claude Code. Join the Discord and grab the **Skill Updates** role to hear when it ships.
+
+## Latest update (1.0.1)
+- Captions now use your script's spelling for names and tool names (Whisper used to mishear them).
+- Crashed or slept renders resume cleanly (empty frames are re-rendered).
+- Fix: avatars no longer stay in a T-pose on newer Roblox avatars.
+- New caption position "safe" (clear of the Shorts buttons and phone edges).
+- New: find-the-formula step, a 10-beat story sheet, a before-you-render checklist and a common-visual-bugs table.
+- The skill now stops and asks when something is blocked, and keeps a CREDITS.md for CC-BY assets.
+
+Found an issue? Open a pull request or an issue here, or say so in the Discord.
